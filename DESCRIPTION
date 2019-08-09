@@ -1,17 +1,17 @@
-Package: univariateML
+Package: hidden
 Type: Package
-Title: Maximum Likelihood Estimation for Univariate Densities
+Title: Hide Global Variables
 Version: 0.1.0
 Author: Jonas Moss
 Maintainer: Jonas Moss <jonas.gjertsen@gmail.com>
-Description: Fast and robust maximum likelihood estimation for some univariate
-    densities.
+Description: Hide globals variables from functions in your workspace.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Imports: assertthat
-Suggests: testthat,
-    extraDistr,
-    knitr
+Suggests: 
+    testthat,
+    knitr,
+    covr
 RoxygenNote: 6.1.1
 VignetteBuilder: knitr

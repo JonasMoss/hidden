@@ -16,4 +16,5 @@
 ^todo.txt$
 ^docs$
 ^workspace$
-^univariateML.Rproj$
+^hidden.Rproj$
+^codecov\.yml$
