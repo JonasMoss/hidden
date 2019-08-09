@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# hidden <img src="man/figures/logo.png" align="right" width="100" height="100" />
+# hidden <img src="man/figures/logo.png" align="right" width="150" height="150" />
 
 [![Build
 Status](https://travis-ci.org/JonasMoss/hidden.svg?branch=master)](https://travis-ci.org/JonasMoss/hidden)
@@ -22,7 +22,7 @@ Coming soon.
 
 ## Installation
 
-From inside `R`, use one of the following commands:
+From inside `R`, do the following:
 
 ``` r
 # install.packages("devtools")
